@@ -1,3 +1,6 @@
+Fork made from django-allauth (http://github.com/pennersr/django-allauth).
+This repo was created to include the NETATMO (https://dev.netatmo.com/) provider.
+
 ==========================
 Welcome to django-allauth!
 ==========================
